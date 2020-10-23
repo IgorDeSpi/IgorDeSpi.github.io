@@ -1,14 +1,14 @@
 /* Theme */
 
 main {
-	background: #EDEDED;
-	color: #4B5658;
+	background-image: url(ciel.jpg);
+	color: #1E1E1E;
 }
 
 .icons-social a {
-	color: #4B5658;
+	color:  #1E1E1E;
 }
 
 .icons-social a svg path{
-	fill: #4B5658;
+	fill:  #1E1E1E;
 }
