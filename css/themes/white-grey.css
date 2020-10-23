@@ -9,6 +9,7 @@ main {
 
 .icons-social a {
 	color:  #1E1E1E;
+	font-style: bold;
 }
 
 .icons-social a svg path{
