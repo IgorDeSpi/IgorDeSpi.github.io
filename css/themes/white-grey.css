@@ -11,6 +11,12 @@ main {
 	color:  #1E1E1E;
 	font-style: bold;
 }
+.icons-social i:hover{     
+	color:rgb(103, 159, 192);     
+	transition: transform .2s;     
+	-ms-transform:scale(1.25); /* IE 9 /     -webkit-transform: scale(1.25); / Safari 3-8 */   
+	transform: scale(1.25); }
+
 
 .icons-social a svg path{
 	fill:  #1E1E1E;
