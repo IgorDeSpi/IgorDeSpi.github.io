@@ -3,6 +3,8 @@
 main {
 	background-image: url(Ciel.jpg);
 	color: #1E1E1E;
+	background-size:cover;
+	background-position: center;
 }
 
 .icons-social a {
